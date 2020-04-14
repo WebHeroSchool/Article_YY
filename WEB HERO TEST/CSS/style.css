@@ -1,0 +1,26 @@
+
+.b {
+  font-weight: bold;
+  margin-bottom: -15px;
+}
+p {
+  font-weight: normal;
+  margin-bottom: -15px;
+  text-indent: 1em;
+  text-align: justify;
+}
+h4 {
+  margin-top: 25px;
+  margin-bottom: -15px;
+}
+
+footer {
+  background: lightgrey;
+  margin-top:20px;
+}
+span {
+  color:white;
+  font-size: 200%;
+  background: lightblue;
+}
+  
